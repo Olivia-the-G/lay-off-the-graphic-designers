@@ -69,7 +69,7 @@ const questions = [
 
 // create svg file using the data
 function makeSVGFile(fileName, data) {
-  fs.writeFile(fileName, shapes.js(data), err => {
+  fs.writeFile(fileName, shapes(data), err => {
     if (err) {
       console.log(err);
     }
