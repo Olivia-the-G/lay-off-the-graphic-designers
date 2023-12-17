@@ -39,7 +39,8 @@ Answer all of the prompts and then an SVG file will automatically be created usi
 ## Demo
 
 
-https://github.com/Olivia-the-G/lay-off-the-graphic-designers/assets/130778807/6de54fd1-4a9b-4eb1-87a7-0ced3b9f6afb
+https://github.com/Olivia-the-G/lay-off-the-graphic-designers/assets/130778807/022b9f05-fc8d-4fab-bd5c-ed9d34cc77cb
+
 
 
 ## License
