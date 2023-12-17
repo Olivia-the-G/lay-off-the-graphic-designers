@@ -42,7 +42,6 @@ Answer all of the prompts and then an SVG file will automatically be created usi
 https://github.com/Olivia-the-G/lay-off-the-graphic-designers/assets/130778807/6de54fd1-4a9b-4eb1-87a7-0ced3b9f6afb
 
 
-
 ## License
 This application is under the MIT license. To see full license details, [click here](https://opensource.org/license/mit/)
 
@@ -75,6 +74,8 @@ describe('Triangle', () => {
 In order to run tests in the shapes.test.js file, open the terminal and run:
 
     npm test
+
+![image](https://github.com/Olivia-the-G/lay-off-the-graphic-designers/assets/130778807/f3621fcb-c096-44aa-bf04-cd2790cbff10)
 
 ## Questions
 
