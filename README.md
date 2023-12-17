@@ -11,6 +11,7 @@ This project was an opportunity for me to practice writing tests for my own code
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 - [License](#license)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -34,6 +35,13 @@ Using this application is simple. Open the repository in a code editor like VSCo
 Answer all of the prompts and then an SVG file will automatically be created using all of the selected criteria. You can then find the file in the path:
 
     ./examples/logo.svg
+
+## Demo
+
+
+https://github.com/Olivia-the-G/lay-off-the-graphic-designers/assets/130778807/6de54fd1-4a9b-4eb1-87a7-0ced3b9f6afb
+
+
 
 ## License
 This application is under the MIT license. To see full license details, [click here](https://opensource.org/license/mit/)
